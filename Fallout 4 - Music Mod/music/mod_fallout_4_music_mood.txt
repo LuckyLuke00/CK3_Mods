@@ -1,0 +1,420 @@
+﻿mood_fallout_4_brightness_calling = {
+	music = "file:/music/fallout_4/mood_music/brightness_calling.ogg"
+	pause_factor = 15
+	mood = yes
+	can_be_interrupted = yes
+	is_prioritized_mood = yes
+	is_valid = {
+		is_at_war = no
+	}
+}
+
+mood_fallout_4_concrete_mysteries = {
+	music = "file:/music/fallout_4/mood_music/concrete_mysteries.ogg"
+	pause_factor = 15
+	mood = yes
+	can_be_interrupted = yes
+	is_prioritized_mood = yes
+	is_valid = {
+		is_at_war = no
+	}
+}
+
+mood_fallout_4_darkness_falls = {
+	music = "file:/music/fallout_4/mood_music/darkness_falls.ogg"
+	pause_factor = 15
+	mood = yes
+	can_be_interrupted = yes
+	is_prioritized_mood = yes
+	is_valid = {
+		is_at_war = no
+	}
+}
+
+mood_fallout_4_deeper_and_darker = {
+	music = "file:/music/fallout_4/mood_music/deeper_and_darker.ogg"
+	pause_factor = 15
+	mood = yes
+	can_be_interrupted = yes
+	is_prioritized_mood = yes
+	is_valid = {
+		is_at_war = no
+	}
+}
+
+mood_fallout_4_echoes_of_the_dead = {
+	music = "file:/music/fallout_4/mood_music/echoes_of_the_dead.ogg"
+	pause_factor = 15
+	mood = yes
+	can_be_interrupted = yes
+	is_prioritized_mood = yes
+	is_valid = {
+		is_at_war = no
+	}
+}
+
+mood_fallout_4_endless_ocean_endless_dreams = {
+	music = "file:/music/fallout_4/mood_music/endless_ocean_endless_dreams.ogg"
+	pause_factor = 15
+	mood = yes
+	can_be_interrupted = yes
+	is_prioritized_mood = yes
+	is_valid = {
+		is_at_war = no
+	}
+}
+
+mood_fallout_4_explore_and_discover = {
+	music = "file:/music/fallout_4/mood_music/explore_and_discover.ogg"
+	pause_factor = 15
+	mood = yes
+	can_be_interrupted = yes
+	is_prioritized_mood = yes
+	is_valid = {
+		is_at_war = no
+	}
+}
+
+mood_fallout_4_honor_&_steel = {
+	music = "file:/music/fallout_4/mood_music/honor_&_steel.ogg"
+	pause_factor = 15
+	mood = yes
+	can_be_interrupted = yes
+	is_prioritized_mood = yes
+	is_valid = {
+		is_at_war = no
+	}
+}
+
+mood_fallout_4_hope_remains = {
+	music = "file:/music/fallout_4/mood_music/hope_remains.ogg"
+	pause_factor = 15
+	mood = yes
+	can_be_interrupted = yes
+	is_prioritized_mood = yes
+	is_valid = {
+		is_at_war = no
+	}
+}
+
+mood_fallout_4_in_this_together = {
+	music = "file:/music/fallout_4/mood_music/in_this_together.ogg"
+	pause_factor = 15
+	mood = yes
+	can_be_interrupted = yes
+	is_prioritized_mood = yes
+	is_valid = {
+		is_at_war = no
+	}
+}
+
+mood_fallout_4_liberty_lives = {
+	music = "file:/music/fallout_4/mood_music/liberty_lives.ogg"
+	pause_factor = 15
+	mood = yes
+	can_be_interrupted = yes
+	is_prioritized_mood = yes
+	is_valid = {
+		is_at_war = no
+	}
+}
+
+mood_fallout_4_lone_wandering = {
+	music = "file:/music/fallout_4/mood_music/lone_wandering.ogg"
+	pause_factor = 15
+	mood = yes
+	can_be_interrupted = yes
+	is_prioritized_mood = yes
+	is_valid = {
+		is_at_war = no
+	}
+}
+
+mood_fallout_4_lonely_walls = {
+	music = "file:/music/fallout_4/mood_music/lonely_walls.ogg"
+	pause_factor = 15
+	mood = yes
+	can_be_interrupted = yes
+	is_prioritized_mood = yes
+	is_valid = {
+		is_at_war = no
+	}
+}
+
+mood_fallout_4_lost_boston = {
+	music = "file:/music/fallout_4/mood_music/lost_boston.ogg"
+	pause_factor = 15
+	mood = yes
+	can_be_interrupted = yes
+	is_prioritized_mood = yes
+	is_valid = {
+		is_at_war = no
+	}
+}
+
+mood_fallout_4_no_more_sails = {
+	music = "file:/music/fallout_4/mood_music/no_more_sails.ogg"
+	pause_factor = 15
+	mood = yes
+	can_be_interrupted = yes
+	is_prioritized_mood = yes
+	is_valid = {
+		is_at_war = no
+	}
+}
+
+mood_fallout_4_no_voices_no_cries = {
+	music = "file:/music/fallout_4/mood_music/no_voices_no_cries.ogg"
+	pause_factor = 15
+	mood = yes
+	can_be_interrupted = yes
+	is_prioritized_mood = yes
+	is_valid = {
+		is_at_war = no
+	}
+}
+
+mood_fallout_4_of_green_and_grey = {
+	music = "file:/music/fallout_4/mood_music/of_green_and_grey.ogg"
+	pause_factor = 15
+	mood = yes
+	can_be_interrupted = yes
+	is_prioritized_mood = yes
+	is_valid = {
+		is_at_war = no
+	}
+}
+
+mood_fallout_4_of_the_people_for_the_people = {
+	music = "file:/music/fallout_4/mood_music/of_the_people_for_the_people.ogg"
+	pause_factor = 15
+	mood = yes
+	can_be_interrupted = yes
+	is_prioritized_mood = yes
+	is_valid = {
+		is_at_war = no
+	}
+}
+
+mood_fallout_4_portal_to_the_past = {
+	music = "file:/music/fallout_4/mood_music/portal_to_the_past.ogg"
+	pause_factor = 15
+	mood = yes
+	can_be_interrupted = yes
+	is_prioritized_mood = yes
+	is_valid = {
+		is_at_war = no
+	}
+}
+
+mood_fallout_4_rebuild_renew = {
+	music = "file:/music/fallout_4/mood_music/rebuild_renew.ogg"
+	pause_factor = 15
+	mood = yes
+	can_be_interrupted = yes
+	is_prioritized_mood = yes
+	is_valid = {
+		is_at_war = no
+	}
+}
+
+mood_fallout_4_red_brick_broken = {
+	music = "file:/music/fallout_4/mood_music/red_brick_broken.ogg"
+	pause_factor = 15
+	mood = yes
+	can_be_interrupted = yes
+	is_prioritized_mood = yes
+	is_valid = {
+		is_at_war = no
+	}
+}
+
+mood_fallout_4_the_commonwealth = {
+	music = "file:/music/fallout_4/mood_music/the_commonwealth.ogg"
+	pause_factor = 15
+	mood = yes
+	can_be_interrupted = yes
+	is_prioritized_mood = yes
+	is_valid = {
+		is_at_war = no
+	}
+}
+
+mood_fallout_4_windy_hill = {
+	music = "file:/music/fallout_4/mood_music/windy_hill.ogg"
+	pause_factor = 15
+	mood = yes
+	can_be_interrupted = yes
+	is_prioritized_mood = yes
+	is_valid = {
+		is_at_war = no
+	}
+}
+
+mood_fallout_4_the_last_mariner = {
+	music = "file:/music/fallout_4/mood_music/the_last_mariner.ogg"
+	pause_factor = 15
+	mood = yes
+	can_be_interrupted = yes
+	is_prioritized_mood = yes
+	is_valid = {
+		is_at_war = no
+	}
+}
+
+mood_fallout_4_the_stars_my_solace = {
+	music = "file:/music/fallout_4/mood_music/the_stars_my_solace.ogg"
+	pause_factor = 15
+	mood = yes
+	can_be_interrupted = yes
+	is_prioritized_mood = yes
+	is_valid = {
+		is_at_war = no
+	}
+}
+
+mood_fallout_4_tread_carefully = {
+	music = "file:/music/fallout_4/mood_music/tread_carefully.ogg"
+	pause_factor = 15
+	mood = yes
+	can_be_interrupted = yes
+	is_prioritized_mood = yes
+	is_valid = {
+		is_at_war = no
+	}
+}
+
+mood_fallout_4_wandering_the_blasted_forest_pt._1 = {
+	music = "file:/music/fallout_4/mood_music/wandering_the_blasted_forest_pt._1.ogg"
+	pause_factor = 15
+	mood = yes
+	can_be_interrupted = yes
+	is_prioritized_mood = yes
+	is_valid = {
+		is_at_war = no
+	}
+}
+
+mood_fallout_4_wandering_the_blasted_forest_pt._2 = {
+	music = "file:/music/fallout_4/mood_music/wandering_the_blasted_forest_pt._2.ogg"
+	pause_factor = 15
+	mood = yes
+	can_be_interrupted = yes
+	is_prioritized_mood = yes
+	is_valid = {
+		is_at_war = no
+	}
+}
+
+mood_fallout_4_wandering_the_city_pt._1 = {
+	music = "file:/music/fallout_4/mood_music/wandering_the_city_pt._1.ogg"
+	pause_factor = 15
+	mood = yes
+	can_be_interrupted = yes
+	is_prioritized_mood = yes
+	is_valid = {
+		is_at_war = no
+	}
+}
+
+mood_fallout_4_wandering_the_city_pt._2 = {
+	music = "file:/music/fallout_4/mood_music/wandering_the_city_pt._2.ogg"
+	pause_factor = 15
+	mood = yes
+	can_be_interrupted = yes
+	is_prioritized_mood = yes
+	is_valid = {
+		is_at_war = no
+	}
+}
+
+mood_fallout_4_wandering_the_city_pt._3 = {
+	music = "file:/music/fallout_4/mood_music/wandering_the_city_pt._3.ogg"
+	pause_factor = 15
+	mood = yes
+	can_be_interrupted = yes
+	is_prioritized_mood = yes
+	is_valid = {
+		is_at_war = no
+	}
+}
+mood_fallout_4_wandering_the_coast_pt._1 = {
+	music = "file:/music/fallout_4/mood_music/wandering_the_coast_pt._1.ogg"
+	pause_factor = 15
+	mood = yes
+	can_be_interrupted = yes
+	is_prioritized_mood = yes
+	is_valid = {
+		is_at_war = no
+	}
+}
+mood_fallout_4_wandering_the_coast_pt._2 = {
+	music = "file:/music/fallout_4/mood_music/wandering_the_coast_pt._2.ogg"
+	pause_factor = 15
+	mood = yes
+	can_be_interrupted = yes
+	is_prioritized_mood = yes
+	is_valid = {
+		is_at_war = no
+	}
+}
+mood_fallout_4_wandering_the_coast_pt._3 = {
+	music = "file:/music/fallout_4/mood_music/wandering_the_coast_pt._3.ogg"
+	pause_factor = 15
+	mood = yes
+	can_be_interrupted = yes
+	is_prioritized_mood = yes
+	is_valid = {
+		is_at_war = no
+	}
+}
+mood_fallout_4_wandering_the_foothills_pt._1 = {
+	music = "file:/music/fallout_4/mood_music/wandering_the_foothills_pt._1.ogg"
+	pause_factor = 15
+	mood = yes
+	can_be_interrupted = yes
+	is_prioritized_mood = yes
+	is_valid = {
+		is_at_war = no
+	}
+}
+mood_fallout_4_wandering_the_foothills_pt._2 = {
+	music = "file:/music/fallout_4/mood_music/wandering_the_foothills_pt._2.ogg"
+	pause_factor = 15
+	mood = yes
+	can_be_interrupted = yes
+	is_prioritized_mood = yes
+	is_valid = {
+		is_at_war = no
+	}
+}
+mood_fallout_4_wandering_the_foothills_pt._3 = {
+	music = "file:/music/fallout_4/mood_music/wandering_the_foothills_pt._3.ogg"
+	pause_factor = 15
+	mood = yes
+	can_be_interrupted = yes
+	is_prioritized_mood = yes
+	is_valid = {
+		is_at_war = no
+	}
+}
+mood_fallout_4_wandering_the_glowing_sea_pt._1 = {
+	music = "file:/music/fallout_4/mood_music/wandering_the_glowing_sea_pt._1.ogg"
+	pause_factor = 15
+	mood = yes
+	can_be_interrupted = yes
+	is_prioritized_mood = yes
+	is_valid = {
+		is_at_war = no
+	}
+}
+mood_fallout_4_wandering_the_glowing_sea_pt._2 = {
+	music = "file:/music/fallout_4/mood_music/wandering_the_glowing_sea_pt._2.ogg"
+	pause_factor = 15
+	mood = yes
+	can_be_interrupted = yes
+	is_prioritized_mood = yes
+	is_valid = {
+		is_at_war = no
+	}
+}

@@ -1,0 +1,6 @@
+﻿##### MAINTHEME
+
+main_theme_track = {
+	music = "file:/music/sonic_adventure/cue_music/open_your_heart.ogg"
+	can_be_interrupted = yes
+}

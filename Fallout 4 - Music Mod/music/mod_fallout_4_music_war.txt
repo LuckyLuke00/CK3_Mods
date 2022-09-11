@@ -1,0 +1,164 @@
+﻿war_fallout_4_a_critical_chance = {
+	music = "file:/music/fallout_4/war_music/a_critical_chance.ogg"
+	pause_factor = 15
+	mood = yes
+	can_be_interrupted = yes
+	is_prioritized_mood = yes
+	is_valid = {
+		is_at_war = yes
+	}
+}
+
+war_fallout_4_combat_ready = {
+	music = "file:/music/fallout_4/war_music/combat_ready.ogg"
+	pause_factor = 15
+	mood = yes
+	can_be_interrupted = yes
+	is_prioritized_mood = yes
+	is_valid = {
+		is_at_war = yes
+	}
+}
+
+war_fallout_4_dominant_species = {
+	music = "file:/music/fallout_4/war_music/dominant_species.ogg"
+	pause_factor = 15
+	mood = yes
+	can_be_interrupted = yes
+	is_prioritized_mood = yes
+	is_valid = {
+		is_at_war = yes
+	}
+}
+
+war_fallout_4_enough_is_enough = {
+	music = "file:/music/fallout_4/war_music/enough_is_enough.ogg"
+	pause_factor = 15
+	mood = yes
+	can_be_interrupted = yes
+	is_prioritized_mood = yes
+	is_valid = {
+		is_at_war = yes
+	}
+}
+
+war_fallout_4_no_quarter = {
+	music = "file:/music/fallout_4/war_music/no_quarter.ogg"
+	pause_factor = 15
+	mood = yes
+	can_be_interrupted = yes
+	is_prioritized_mood = yes
+	is_valid = {
+		is_at_war = yes
+	}
+}
+
+war_fallout_4_only_one_survives = {
+	music = "file:/music/fallout_4/war_music/only_one_survives.ogg"
+	pause_factor = 15
+	mood = yes
+	can_be_interrupted = yes
+	is_prioritized_mood = yes
+	is_valid = {
+		is_at_war = yes
+	}
+}
+
+war_fallout_4_predator_and_prey = {
+	music = "file:/music/fallout_4/war_music/predator_and_prey.ogg"
+	pause_factor = 15
+	mood = yes
+	can_be_interrupted = yes
+	is_prioritized_mood = yes
+	is_valid = {
+		is_at_war = yes
+	}
+}
+
+war_fallout_4_regrouped_reloaded = {
+	music = "file:/music/fallout_4/war_music/regrouped_reloaded.ogg"
+	pause_factor = 15
+	mood = yes
+	can_be_interrupted = yes
+	is_prioritized_mood = yes
+	is_valid = {
+		is_at_war = yes
+	}
+}
+
+war_fallout_4_rise_and_prevail = {
+	music = "file:/music/fallout_4/war_music/rise_and_prevail.ogg"
+	pause_factor = 15
+	mood = yes
+	can_be_interrupted = yes
+	is_prioritized_mood = yes
+	is_valid = {
+		is_at_war = yes
+	}
+}
+
+war_fallout_4_standoff = {
+	music = "file:/music/fallout_4/war_music/standoff.ogg"
+	pause_factor = 15
+	mood = yes
+	can_be_interrupted = yes
+	is_prioritized_mood = yes
+	is_valid = {
+		is_at_war = yes
+	}
+}
+
+war_fallout_4_the_infiltrator = {
+	music = "file:/music/fallout_4/war_music/the_infiltrator.ogg"
+	pause_factor = 15
+	mood = yes
+	can_be_interrupted = yes
+	is_prioritized_mood = yes
+	is_valid = {
+		is_at_war = yes
+	}
+}
+
+war_fallout_4_the_warlord = {
+	music = "file:/music/fallout_4/war_music/the_warlord.ogg"
+	pause_factor = 15
+	mood = yes
+	can_be_interrupted = yes
+	is_prioritized_mood = yes
+	is_valid = {
+		is_at_war = yes
+	}
+}
+
+war_fallout_4_v.a.t.s._or_die = {
+	music = "file:/music/fallout_4/war_music/v.a.t.s._or_die.ogg"
+	pause_factor = 15
+	mood = yes
+	can_be_interrupted = yes
+	is_prioritized_mood = yes
+	is_valid = {
+		is_at_war = yes
+	}
+}
+
+war_fallout_4_war_in_the_wastes = {
+	music = "file:/music/fallout_4/war_music/war_in_the_wastes.ogg"
+	pause_factor = 15
+	mood = yes
+	can_be_interrupted = yes
+	is_prioritized_mood = yes
+	is_valid = {
+		is_at_war = yes
+	}
+}
+
+war_fallout_4_we_are_unstoppable = {
+	music = "file:/music/fallout_4/war_music/we_are_unstoppable.ogg"
+	pause_factor = 15
+	mood = yes
+	can_be_interrupted = yes
+	is_prioritized_mood = yes
+	is_valid = {
+		is_at_war = yes
+	}
+}

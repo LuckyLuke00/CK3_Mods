@@ -1,0 +1,76 @@
+﻿war_sonic_adventure_chaos_the_god_of_destruction = {
+	music = "file:/music/sonic_adventure/war_music/chaos_the_god_of_destruction.ogg"
+	pause_factor = 15
+	mood = yes
+	can_be_interrupted = yes
+	is_prioritized_mood = yes
+	is_valid = {
+		is_at_war = yes
+	}
+}
+
+war_sonic_adventure_chaos_the_god_of_destruction_ver_6 = {
+	music = "file:/music/sonic_adventure/war_music/chaos_the_god_of_destruction_ver_6.ogg"
+	pause_factor = 15
+	mood = yes
+	can_be_interrupted = yes
+	is_prioritized_mood = yes
+	is_valid = {
+		is_at_war = yes
+	}
+}
+
+war_sonic_adventure_egg_mobile_egg_hornet = {
+	music = "file:/music/sonic_adventure/war_music/egg_mobile_egg_hornet.ogg"
+	pause_factor = 15
+	mood = yes
+	can_be_interrupted = yes
+	is_prioritized_mood = yes
+	is_valid = {
+		is_at_war = yes
+	}
+}
+
+war_sonic_adventure_militant_missionary = {
+	music = "file:/music/sonic_adventure/war_music/militant_missionary.ogg"
+	pause_factor = 15
+	mood = yes
+	can_be_interrupted = yes
+	is_prioritized_mood = yes
+	is_valid = {
+		is_at_war = yes
+	}
+}
+
+war_sonic_adventure_perfect_chaos_revival = {
+	music = "file:/music/sonic_adventure/war_music/perfect_chaos_revival.ogg"
+	pause_factor = 15
+	mood = yes
+	can_be_interrupted = yes
+	is_prioritized_mood = yes
+	is_valid = {
+		is_at_war = yes
+	}
+}
+
+war_sonic_adventure_tornado = {
+	music = "file:/music/sonic_adventure/war_music/tornado.ogg"
+	pause_factor = 15
+	mood = yes
+	can_be_interrupted = yes
+	is_prioritized_mood = yes
+	is_valid = {
+		is_at_war = yes
+	}
+}
+
+war_sonic_adventure_zero_the_chase_master_e_100a = {
+	music = "file:/music/sonic_adventure/war_music/zero_the_chase_master_e_100a.ogg"
+	pause_factor = 15
+	mood = yes
+	can_be_interrupted = yes
+	is_prioritized_mood = yes
+	is_valid = {
+		is_at_war = yes
+	}
+}

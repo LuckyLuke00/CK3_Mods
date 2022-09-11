@@ -1,0 +1,208 @@
+﻿mood_sonic_adventure_at_dawn = {
+	music = "file:/music/sonic_adventure/mood_music/at_dawn.ogg"
+	pause_factor = 15
+	mood = yes
+	can_be_interrupted = yes
+	is_prioritized_mood = yes
+	is_valid = {
+		is_at_war = no
+	}
+}
+
+mood_sonic_adventure_azure_blue_world = {
+	music = "file:/music/sonic_adventure/mood_music/azure_blue_world.ogg"
+	pause_factor = 15
+	mood = yes
+	can_be_interrupted = yes
+	is_prioritized_mood = yes
+	is_valid = {
+		is_at_war = no
+	}
+}
+
+mood_sonic_adventure_be_cool_be_wild_and_be_groovy = {
+	music = "file:/music/sonic_adventure/mood_music/be_cool_be_wild_and_be_groovy.ogg"
+	pause_factor = 15
+	mood = yes
+	can_be_interrupted = yes
+	is_prioritized_mood = yes
+	is_valid = {
+		is_at_war = no
+	}
+}
+
+mood_sonic_adventure_big_fishes_at_emerald_coast = {
+	music = "file:/music/sonic_adventure/mood_music/big_fishes_at_emerald_coast.ogg"
+	pause_factor = 15
+	mood = yes
+	can_be_interrupted = yes
+	is_prioritized_mood = yes
+	is_valid = {
+		is_at_war = no
+	}
+}
+
+mood_sonic_adventure_dilapidated_way = {
+	music = "file:/music/sonic_adventure/mood_music/dilapidated_way.ogg"
+	pause_factor = 15
+	mood = yes
+	can_be_interrupted = yes
+	is_prioritized_mood = yes
+	is_valid = {
+		is_at_war = no
+	}
+}
+
+mood_sonic_adventure_egg_carrier = {
+	music = "file:/music/sonic_adventure/mood_music/egg_carrier.ogg"
+	pause_factor = 15
+	mood = yes
+	can_be_interrupted = yes
+	is_prioritized_mood = yes
+	is_valid = {
+		is_at_war = no
+	}
+}
+
+mood_sonic_adventure_mt_red_a_symbol_of_thril = {
+	music = "file:/music/sonic_adventure/mood_music/mt_red_a_symbol_of_thril.ogg"
+	pause_factor = 15
+	mood = yes
+	can_be_interrupted = yes
+	is_prioritized_mood = yes
+	is_valid = {
+		is_at_war = no
+	}
+}
+
+mood_sonic_adventure_pleasure_castle = {
+	music = "file:/music/sonic_adventure/mood_music/pleasure_castle.ogg"
+	pause_factor = 15
+	mood = yes
+	can_be_interrupted = yes
+	is_prioritized_mood = yes
+	is_valid = {
+		is_at_war = no
+	}
+}
+
+mood_sonic_adventure_red_hot_skull = {
+	music = "file:/music/sonic_adventure/mood_music/red_hot_skull.ogg"
+	pause_factor = 15
+	mood = yes
+	can_be_interrupted = yes
+	is_prioritized_mood = yes
+	is_valid = {
+		is_at_war = no
+	}
+}
+
+mood_sonic_adventure_run_through_the_speed_highway = {
+	music = "file:/music/sonic_adventure/mood_music/run_through_the_speed_highway.ogg"
+	pause_factor = 15
+	mood = yes
+	can_be_interrupted = yes
+	is_prioritized_mood = yes
+	is_valid = {
+		is_at_war = no
+	}
+}
+
+mood_sonic_adventure_skydeck_a_go_go = {
+	music = "file:/music/sonic_adventure/mood_music/skydeck_a_go_go.ogg"
+	pause_factor = 15
+	mood = yes
+	can_be_interrupted = yes
+	is_prioritized_mood = yes
+	is_valid = {
+		is_at_war = no
+	}
+}
+
+mood_sonic_adventure_snowy_mountain = {
+	music = "file:/music/sonic_adventure/mood_music/snowy_mountain.ogg"
+	pause_factor = 15
+	mood = yes
+	can_be_interrupted = yes
+	is_prioritized_mood = yes
+	is_valid = {
+		is_at_war = no
+	}
+}
+
+mood_sonic_adventure_the_air = {
+	music = "file:/music/sonic_adventure/mood_music/the_air.ogg"
+	pause_factor = 15
+	mood = yes
+	can_be_interrupted = yes
+	is_prioritized_mood = yes
+	is_valid = {
+		is_at_war = no
+	}
+}
+
+mood_sonic_adventure_theme_of_e_102y = {
+	music = "file:/music/sonic_adventure/mood_music/theme_of_e_102y.ogg"
+	pause_factor = 15
+	mood = yes
+	can_be_interrupted = yes
+	is_prioritized_mood = yes
+	is_valid = {
+		is_at_war = no
+	}
+}
+
+mood_sonic_adventure_twinkle_cart = {
+	music = "file:/music/sonic_adventure/mood_music/twinkle_cart.ogg"
+	pause_factor = 15
+	mood = yes
+	can_be_interrupted = yes
+	is_prioritized_mood = yes
+	is_valid = {
+		is_at_war = no
+	}
+}
+
+mood_sonic_adventure_twinkle_circuit = {
+	music = "file:/music/sonic_adventure/mood_music/twinkle_circuit.ogg"
+	pause_factor = 15
+	mood = yes
+	can_be_interrupted = yes
+	is_prioritized_mood = yes
+	is_valid = {
+		is_at_war = no
+	}
+}
+
+mood_sonic_adventure_welcome_to_station_square = {
+	music = "file:/music/sonic_adventure/mood_music/welcome_to_station_square.ogg"
+	pause_factor = 15
+	mood = yes
+	can_be_interrupted = yes
+	is_prioritized_mood = yes
+	is_valid = {
+		is_at_war = no
+	}
+}
+
+mood_sonic_adventure_windy_and_ripply = {
+	music = "file:/music/sonic_adventure/mood_music/windy_and_ripply.ogg"
+	pause_factor = 15
+	mood = yes
+	can_be_interrupted = yes
+	is_prioritized_mood = yes
+	is_valid = {
+		is_at_war = no
+	}
+}
+
+mood_sonic_adventure_windy_hill = {
+	music = "file:/music/sonic_adventure/mood_music/windy_hill.ogg"
+	pause_factor = 15
+	mood = yes
+	can_be_interrupted = yes
+	is_prioritized_mood = yes
+	is_valid = {
+		is_at_war = no
+	}
+}
