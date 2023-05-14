@@ -1,7 +1,8 @@
-version="1.0"
+version="2.0"
 tags={
 	"Graphics"
 	"Theme"
+	"Dark"
 }
 name="CK3 Dark Theme"
 supported_version="1.*"
