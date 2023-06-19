@@ -1,7 +1,8 @@
-version="2.2"
+version="3.0"
 tags={
 	"Graphics"
 	"Theme"
+	"Blue"
 }
 name="CK3 Blue Theme"
 supported_version="1.*"
